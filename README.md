@@ -1,2 +1,2 @@
-# C-2-PORTFOLIO
-Challenge — Bootstrap Portfolio Site (From Scratch)
+# CHALLENGE2-PORTFOLIO
+Bootstrap Portfolio Site (From Scratch)
